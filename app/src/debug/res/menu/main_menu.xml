@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/memories_list"
+        android:icon="@drawable/list_svg"
+        android:orderInCategory="1"
+        android:title="@string/memories_items_list"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/edit_profile"
+        android:icon="@drawable/edit_profile_svg"
+        android:orderInCategory="2"
+        android:title="@string/edit_profile"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/log_out"
+        android:icon="@drawable/logout_svg"
+        android:orderInCategory="3"
+        android:title="@string/log_out"
+        app:showAsAction="never" />
+</menu>

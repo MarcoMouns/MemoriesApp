@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Memories</string>
+    <string name="name_of_app">Memories\'s App</string>
+    <string name="sign_in">Sign in</string>
+    <string name="no_account_yet_create_one">No account yet? Create one</string>
+    <string name="mail">Mail</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="memories_items_list">Memories list</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="log_out">Log Out</string>
+    <string name="title_activity_select_location">Map</string>
+    <string name="user_name">User Name</string>
+
+</resources>
